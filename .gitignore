@@ -1,0 +1,16 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# Jupyter Notebook internals (Do NOT push these)
+.ipynb_checkpoints/
+
+# Environment and Secrets
+.env
+.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
